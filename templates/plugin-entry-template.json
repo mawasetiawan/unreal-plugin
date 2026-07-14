@@ -1,0 +1,33 @@
+{
+  "id": "nama-plugin-kebab-case",
+  "name": "Nama Plugin",
+  "category": "Kategori",
+  "unrealVersions": [
+    "UE 5.7"
+  ],
+  "latestVersion": "",
+  "stableVersion": "",
+  "favoriteVersion": "",
+  "status": "testing",
+  "shortDescription": "Deskripsi singkat plugin.",
+  "tags": [
+    "tag1",
+    "tag2"
+  ],
+  "notes": "Catatan manajemen versi.",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "label": "initial release",
+      "date": "2026-07-14",
+      "status": "testing",
+      "unreal": "UE 5.7",
+      "file": "downloads/nama-plugin-kebab-case/nama-plugin-kebab-case_v1.0.0.zip",
+      "size": "",
+      "checksum": "",
+      "summary": "Ringkasan perubahan.",
+      "knownIssues": [],
+      "changelog": []
+    }
+  ]
+}
